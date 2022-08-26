@@ -25,3 +25,5 @@ CREATE TABLE awards (
   name text
 );
 
+ALTER TABLE awards ADD recieved_award boolean;
+
